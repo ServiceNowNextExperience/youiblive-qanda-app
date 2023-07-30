@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Questions</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_uib_questi_0_questions</name>
+        <number_ref display_value="QUEST">d2dfd5e18714f9509d930f65dabb35a7</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 17:21:52</sys_created_on>
+        <sys_id>4adfd5e18714f9509d930f65dabb3576</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Questions</sys_name>
+        <sys_package display_value="UIB Question Triage" source="x_snc_uib_questi_0">400e59618714f9509d930f65dabb353e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UIB Question Triage">400e59618714f9509d930f65dabb353e</sys_scope>
+        <sys_update_name>sys_db_object_4adfd5e18714f9509d930f65dabb3576</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 17:21:53</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

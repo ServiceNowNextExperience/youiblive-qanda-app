@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4adfd5e18714f9509d930f65dabb3576" label="Questions" max_length="40" name="x_snc_uib_questi_0_questions" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Answer" max_length="4000" name="answer" type="string"/>
+        <element label="Category" max_length="32" name="category" reference="x_snc_uib_questi_0_category" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Original answer" max_length="4000" name="original_answer" type="string"/>
+        <element label="Parent" max_length="32" name="parent" reference="x_snc_uib_questi_0_questions" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Question" max_length="4000" name="question" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Question time" max_length="40" name="question_time" type="glide_date_time"/>
+        <element choice="3" default="pending" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="Unanswered" sequence="1" value="unanswered"/>
+                <element inactive_on_update="false" label="Answered" sequence="2" value="answered"/>
+                <element inactive_on_update="false" label="Duplicate" sequence="3" value="duplicate"/>
+                <element inactive_on_update="false" label="Not applicable" sequence="4" value="not_applicable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Webinar Session" max_length="40" name="webinar_session" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Webinar Session Id" max_length="40" name="webinar_session_id" type="string"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>

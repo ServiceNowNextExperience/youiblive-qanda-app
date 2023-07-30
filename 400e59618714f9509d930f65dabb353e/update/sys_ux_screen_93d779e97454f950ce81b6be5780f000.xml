@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="UIB Question Triage Config">93d779e9d754f950ba6e0005df0ce515</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="KPI Details">ed7ad8a1c313101001a6e0dd9740ddd1</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "sysId" : "",
+  "views" : "",
+  "selectedTabIndex" : 0,
+  "table" : "",
+  "mode" : "",
+  "listView" : ""
+}</macroponent_config>
+        <name>KPI Details default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="KPI Details">dbd779e96154f95056428c18af516409</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 19:06:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>93d779e97454f950ce81b6be5780f000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UIB Question Triage" source="x_snc_uib_questi_0">400e59618714f9509d930f65dabb353e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UIB Question Triage">400e59618714f9509d930f65dabb353e</sys_scope>
+        <sys_update_name>sys_ux_screen_93d779e97454f950ce81b6be5780f000</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 19:06:51</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=93d779e97454f950ce81b6be5780f000"/>
+</record_update>

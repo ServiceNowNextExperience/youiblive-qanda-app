@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7ba175658754f9509d930f65dabb35da" label="Category" max_length="40" name="x_snc_uib_questi_0_category" text_index="true" type="collection">
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Owner" max_length="40" name="owner" type="string"/>
+        <element label="Owning Group" max_length="40" name="owning_group" type="string"/>
+    </element>
+</database>

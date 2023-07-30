@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="UIB Question Triage">5fd779e92e54f9509a100bd914e4c814</page>
+        <required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 19:06:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>97d779e9eb54f950645789ed2c600002</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="UIB Question Triage" source="x_snc_uib_questi_0">400e59618714f9509d930f65dabb353e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UIB Question Triage">400e59618714f9509d930f65dabb353e</sys_scope>
+        <sys_update_name>sys_ux_page_property_97d779e9eb54f950645789ed2c600002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 19:23:38</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_uib_questi_0.5fd779e92e54f9509a100bd914e4c814.root.chrome_toolbar</unique_name>
+        <value>[{"id":"home","label":{"translatable":true,"message":"Home"},"order":null,"icon":"home-outline","routeInfo":{"route":"home"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"list","label":{"translatable":true,"message":"List"},"order":null,"icon":"list-outline","routeInfo":{"route":"list"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"analytics-center","label":{"translatable":true,"message":"Analytics Center"},"order":null,"icon":"analytics-center-outline","routeInfo":{"route":"analytics-center"},"group":"top","badge":{},"presence":{},"availability":{}}]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=97d779e9eb54f950645789ed2c600002"/>
+</record_update>

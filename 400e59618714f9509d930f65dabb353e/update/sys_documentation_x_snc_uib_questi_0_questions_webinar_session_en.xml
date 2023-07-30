@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="webinar_session" label="Webinar Session" language="en" table="x_snc_uib_questi_0_questions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>webinar_session</element>
+            <help/>
+            <hint/>
+            <label>Webinar Session</label>
+            <language>en</language>
+            <name>x_snc_uib_questi_0_questions</name>
+            <plural>Webinar Sessions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-27 17:21:53</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Webinar Session</sys_name>
+            <sys_package display_value="UIB Question Triage" source="x_snc_uib_questi_0">400e59618714f9509d930f65dabb353e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UIB Question Triage">400e59618714f9509d930f65dabb353e</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_uib_questi_0_questions_webinar_session_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-27 17:21:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

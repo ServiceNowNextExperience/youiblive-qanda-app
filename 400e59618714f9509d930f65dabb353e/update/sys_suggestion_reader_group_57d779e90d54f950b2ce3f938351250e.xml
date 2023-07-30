@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="UIB Question Triage - Workspace Search">1bd779e93354f950c2b9d846a4a0280b</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 19:06:51</sys_created_on>
+        <sys_id>57d779e90d54f950b2ce3f938351250e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="UIB Question Triage" source="x_snc_uib_questi_0">400e59618714f9509d930f65dabb353e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UIB Question Triage">400e59618714f9509d930f65dabb353e</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_57d779e90d54f950b2ce3f938351250e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 19:06:51</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>
